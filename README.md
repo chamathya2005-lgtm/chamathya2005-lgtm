@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**chamathya2005-lgtm/chamathya2005-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# README
 
-Here are some ideas to get you started:
+## Personal Information
+Name: Danushi Chamathya  
+Age: 21  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+Major: Undergraduate Software Engineer
+
+## About Me
+I am an undergraduate student studying Software Engineering. I am interested in learning software development, testing, and new technologies in the IT field.
+
+## Goals
+My goal is to become a skilled software professional and improve my knowledge in programming and software testing.
